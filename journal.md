@@ -18,7 +18,7 @@ Tomorrow will start working on the Schematic in Kicad.
 ## Overview
 Completed left half of the schematic
 
-[Lapse Recording](https://lapse.hackclub.com/timelapse/uUoo5ue_uYmt)
+[Lapse Recording](https://lapse.hackclub.com/timelapse/0nxsD578l6Ia)
 
 ## Images
 <img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/f03d5bd6-57a4-4ecf-b9cc-3616eb32c467" />
