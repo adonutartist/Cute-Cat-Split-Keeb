@@ -60,7 +60,7 @@ Completed arranging the PCB and making the edge cut with mouse bites now gonna w
 * **Date:** 15 August 10 PM to 15 August 2:20 AM 2026
 
 * **Overview:**
-Routing left side of pcb truly taking a toll on my life force ;-; frikin got softlockedat various points needed to redo some routes a couple time to get it right still stuck with some ;-; gng I js wanna sleep :< also I don't know why some parts are not being filled with GND filled zone ;-; its really eating up my brain cells trying to figure this out ;-;
+Routing left side of PCB truly taking a toll on my life force ;-; frikin got softlocked at various points needed to redo some routes a couple times to get it right still stuck with some ;-; gng I js wanna sleep :< also I don't know why some parts are not being filled with GND filled zone ;-; its really eating up my brain cells trying to figure this out ;-;
 
 * **[Lapse Recording](https://lapse.hackclub.com/timelapse/IlSIfrzwNU0s)**
 
