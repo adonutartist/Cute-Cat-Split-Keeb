@@ -68,3 +68,18 @@ Routing left side of PCB truly taking a toll on my life force ;-; frikin got sof
   > <img width="1920" height="1080" alt="Screenshot_2026-08-16_02-19-10" src="https://github.com/user-attachments/assets/b391575f-5689-4cb7-a3f6-a8eb1a901027" />
 
 * **Total time spent:** 3 hours 44 minutes
+
+# DEVLOG #6
+
+* **Date:** 16 August 10 PM to 17 August 2:52 AM 2026
+
+* **Overview:**
+Finished routing left side of PCB and also successfully made a GND and +3.3v filled region on the two layers without leaving gaps. Had to rerout like 3 times to get this right ;-; anyways right side of PCB going pretty smoothly I think the suffering I endured while doing the left is now bearing fruit :3 it feels pretty easy routing now but still won't lie I hate routing!!!
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/GN2Y_pQOUh5k)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-17_02-48-32" src="https://github.com/user-attachments/assets/bf31e19e-0a68-489d-b17a-0a438943d286" /><img width="1920" height="1080" alt="Screenshot_2026-08-17_02-48-51" src="https://github.com/user-attachments/assets/f7db421f-d7a0-49e2-9d2f-0b8a199bbc2e" />
+
+
+* **Total time spent:** 2 hours 57 minutes
