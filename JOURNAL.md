@@ -81,5 +81,18 @@ Finished routing left side of PCB and also successfully made a GND and +3.3v fil
 * **Images:**
   > <img width="1920" height="1080" alt="Screenshot_2026-08-17_02-48-32" src="https://github.com/user-attachments/assets/bf31e19e-0a68-489d-b17a-0a438943d286" /><img width="1920" height="1080" alt="Screenshot_2026-08-17_02-48-51" src="https://github.com/user-attachments/assets/f7db421f-d7a0-49e2-9d2f-0b8a199bbc2e" />
 
-
 * **Total time spent:** 2 hours 57 minutes
+
+# DEVLOG #7
+
+* **Date:** 17 August 10:50 PM to 18 August 2:54 AM 2026
+
+* **Overview:**
+Finished routing the right half of PCB and made art for silkscreen for both halves and added that too... asked some people to check if my PCB routing is correct so gonna wait on their reply ;-; found weird DRC errors which prolly meant nothing cuz it kept pointing at overlap boundary but my LEDs are designed for underglow so I dont know I shouldn't place em enside keycap boundary well anyways gotta get these errors clarified with someone with bigger brain than mine xDDD
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/J2zB9yHQb8pH)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-18_02-49-57" src="https://github.com/user-attachments/assets/c5a94342-cff9-43ca-b641-f602c6ff7a1c" /><img width="1920" height="1080" alt="Screenshot_2026-08-18_02-50-34" src="https://github.com/user-attachments/assets/f4a55749-83b9-4abb-803b-43374faab1fb" /><img width="1920" height="1080" alt="Screenshot_2026-08-18_02-51-00" src="https://github.com/user-attachments/assets/472120ef-c1d5-4681-84e0-2f45977ed8dd" />
+
+* **Total time spent:** 3 hours 29 minutes
