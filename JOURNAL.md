@@ -96,3 +96,17 @@ Finished routing the right half of PCB and made art for silkscreen for both halv
   > <img width="1920" height="1080" alt="Screenshot_2026-08-18_02-49-57" src="https://github.com/user-attachments/assets/c5a94342-cff9-43ca-b641-f602c6ff7a1c" /><img width="1920" height="1080" alt="Screenshot_2026-08-18_02-50-34" src="https://github.com/user-attachments/assets/f4a55749-83b9-4abb-803b-43374faab1fb" /><img width="1920" height="1080" alt="Screenshot_2026-08-18_02-51-00" src="https://github.com/user-attachments/assets/472120ef-c1d5-4681-84e0-2f45977ed8dd" />
 
 * **Total time spent:** 3 hours 29 minutes
+
+# DEVLOG #8
+
+* **Date:** 18 August 10:30 PM to 19 August 2:57 AM 2026
+
+* **Overview:**
+Couldn't get anything done! I recently moved to linux and i am only familiar with fusion360 i thought onshape would be easy but it requires such good internet connection ;-; this is so frikin cooked then I tried using freecad it's ui holy i couldn't find the option to extrude ;-; at this point I just have skill issues man.
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/MF380lOOOztu)**
+
+* **Images:**
+  > <img width="300" height="300" alt="nemo" src="https://github.com/user-attachments/assets/0b6f8da4-cec8-4cf4-8420-dcbfd71156cd" />
+
+* **Total time spent:** 14 minutes 
