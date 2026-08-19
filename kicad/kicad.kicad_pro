@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./",
       "specctra_dsn": "",
-      "step": "",
+      "step": "kicad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "switches_keeb") (type "KiCad") (uri "${KIPRJMOD}/switches_keeb.pretty") (options "") (descr ""))
+)
