@@ -125,3 +125,17 @@ I kinda avoided doing CAD today cuz of this consistent headache I had all day bu
 
 
 * **Total time spent:** 23 minutes 
+
+# DEVLOG #10
+
+* **Date:** 20 August 10:30 PM to 21 August 00:28 AM 2026
+
+* **Overview:**
+Still avoiding doing CAD. Someone told me to round corners of pcb to look cool so I did that. Also took couple images as good renders of PCB to put on readme llater. Nothing too fancy just some kindling etc...
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/s1fZ1YkS1jc-)**
+
+* **Images:**
+  > <img width="3600" height="1000" alt="kicadback" src="https://github.com/user-attachments/assets/4d0a2934-05ff-4691-8fb4-4204cb8c0262" /><img width="3600" height="1000" alt="kicad" src="https://github.com/user-attachments/assets/fb72705d-1362-4fdf-a43b-780f89518ace" /><img width="5000" height="1422" alt="srvimg (1)" src="https://github.com/user-attachments/assets/3987c378-4ab6-46e0-a8f0-14ce6b6dc375" />
+
+* **Total time spent:** 37 minutes 
