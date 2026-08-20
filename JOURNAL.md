@@ -107,6 +107,35 @@ Couldn't get anything done! I recently moved to linux and i am only familiar wit
 * **[Lapse Recording](https://lapse.hackclub.com/timelapse/MF380lOOOztu)**
 
 * **Images:**
-  > <img width="300" height="300" alt="nemo" src="https://github.com/user-attachments/assets/0b6f8da4-cec8-4cf4-8420-dcbfd71156cd" />
+  > <img width="300" height="300" alt="nemo" src="https://github.com/user-attachments/assets/0b6f8da4-cec8-4cf4-8420-dcbfd71156cd" /> No images to show so here you go Mr. hedgehog Nemo
 
 * **Total time spent:** 14 minutes 
+
+# DEVLOG #9
+
+* **Date:** 19 August 11:00 PM to 20 August 1:10 AM 2026
+
+* **Overview:**
+I kinda avoided doing CAD today cuz of this consistent headache I had all day but well I fixed some errors with footprints. I had posted my PCB on #electronics channel and someone replied back! He told me about how my hotswap key placement was wrong apparently hotswap pads require to be mounted on b.cu but mine was on f.cu so yeh I js had edit it all nothing much. Also some guy told me that if i have silkscreen art on pads it interferes with soldering don't rly get his point but i guess will have to revise silkscreen art ;-; Also good news I randomly found out I can export my custom layout as dxf!! Insane right? Its all so easy now I guess will have to use onshape
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/CPJDpnVxVtwW)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-20_00-51-27" src="https://github.com/user-attachments/assets/26d03a47-ae1f-441a-8d80-007b4d5cf6f2" /><img width="1920" height="1080" alt="Screenshot_2026-08-20_00-50-30" src="https://github.com/user-attachments/assets/16aa8626-8d1c-4d7d-a8c9-fc1550895bdd" /><img width="5000" height="1422" alt="srvimg" src="https://github.com/user-attachments/assets/12a4ee2f-aa64-4f47-b5f1-e9848f19f6cd" />
+
+
+* **Total time spent:** 23 minutes 
+
+# DEVLOG #10
+
+* **Date:** 20 August 10:30 PM to 21 August 00:28 AM 2026
+
+* **Overview:**
+Still avoiding doing CAD. Someone told me to round corners of pcb to look cool so I did that. Also took couple images as good renders of PCB to put on readme llater. Nothing too fancy just some kindling etc...
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/s1fZ1YkS1jc-)**
+
+* **Images:**
+  > <img width="3600" height="1000" alt="kicadback" src="https://github.com/user-attachments/assets/4d0a2934-05ff-4691-8fb4-4204cb8c0262" /><img width="3600" height="1000" alt="kicad" src="https://github.com/user-attachments/assets/fb72705d-1362-4fdf-a43b-780f89518ace" /><img width="5000" height="1422" alt="srvimg (1)" src="https://github.com/user-attachments/assets/3987c378-4ab6-46e0-a8f0-14ce6b6dc375" />
+
+* **Total time spent:** 37 minutes 
