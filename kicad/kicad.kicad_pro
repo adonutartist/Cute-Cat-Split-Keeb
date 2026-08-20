@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "/home/nemodonut/Desktop/Cute-Cat-Split-Keeb/",
       "specctra_dsn": "",
       "step": "kicad.step",
       "vrml": ""
