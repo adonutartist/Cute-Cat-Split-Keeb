@@ -139,3 +139,17 @@ Still avoiding doing CAD. Someone told me to round corners of pcb to look cool s
   > <img width="3600" height="1000" alt="kicadback" src="https://github.com/user-attachments/assets/4d0a2934-05ff-4691-8fb4-4204cb8c0262" /><img width="3600" height="1000" alt="kicad" src="https://github.com/user-attachments/assets/fb72705d-1362-4fdf-a43b-780f89518ace" /><img width="5000" height="1422" alt="srvimg (1)" src="https://github.com/user-attachments/assets/3987c378-4ab6-46e0-a8f0-14ce6b6dc375" />
 
 * **Total time spent:** 37 minutes 
+
+# DEVLOG #11
+
+* **Date:** 21 August 11 PM to 22 August 1:30 AM 2026
+
+* **Overview:**
+Finally started CAD!! Onshape is actually really similar to fusion I guess it was just me being stubborn ;-; also found out onshpae rendering part like the place where u go for doing photo session of ur CAD is paywalled ;-; really heartbreaking will have to find some alternative to that otherwise everything else is fine :3 kBai!
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/Y-vAZevbnHuz)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-22_00-56-55" src="https://github.com/user-attachments/assets/da0797e1-e8c3-467f-a8e3-b21cb0994ea3" />
+
+* **Total time spent:** 2 hours 2 minutes
