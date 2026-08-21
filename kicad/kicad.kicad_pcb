@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_57f7f57f)
+			(layerselection 0x00000000_00000000_55555555_57575550)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "/home/nemodonut/Desktop/Cute-Cat-Split-Keeb/")
+			(outputdirectory "./")
 		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u"
