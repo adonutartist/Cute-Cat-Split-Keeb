@@ -153,3 +153,17 @@ Finally started CAD!! Onshape is actually really similar to fusion I guess it wa
   > <img width="1920" height="1080" alt="Screenshot_2026-08-22_00-56-55" src="https://github.com/user-attachments/assets/da0797e1-e8c3-467f-a8e3-b21cb0994ea3" />
 
 * **Total time spent:** 2 hours 2 minutes
+
+# DEVLOG #12
+
+* **Date:** 23 August 10 PM to 23 August 11:53 PM 2026
+
+* **Overview:**
+CAD work decided mounting style and mouting hole size also started working on the cat design in figma pretty hard ngl i HATE FIGMA
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/mRBZU7DT-jdH)**
+
+* **Images:**
+  > <img width="1916" height="948" alt="Screenshot_2026-08-23_23-52-01" src="https://github.com/user-attachments/assets/dbdf2b3b-b7c6-4cca-9925-546819279ec3" /><img width="890" height="589" alt="Screenshot_2026-08-23_23-52-15" src="https://github.com/user-attachments/assets/a3f9e0c5-6ffd-44d4-9ff0-c7b30db35d9c" />
+
+* **Total time spent:** 1 hour 46 minutes
