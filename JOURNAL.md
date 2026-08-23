@@ -167,3 +167,17 @@ CAD work decided mounting style and mouting hole size also started working on th
   > <img width="1916" height="948" alt="Screenshot_2026-08-23_23-52-01" src="https://github.com/user-attachments/assets/dbdf2b3b-b7c6-4cca-9925-546819279ec3" /><img width="890" height="589" alt="Screenshot_2026-08-23_23-52-15" src="https://github.com/user-attachments/assets/a3f9e0c5-6ffd-44d4-9ff0-c7b30db35d9c" />
 
 * **Total time spent:** 1 hour 46 minutes
+
+# DEVLOG #13
+
+* **Date:** 24 August Midnight to 24 August 2:59 AM 2026
+
+* **Overview:**
+After like 3 hours of just trying to do stuff I needed to delete my progress all because frikin FIGMAAA is frikin pissing me off I genuinely hate this piece of scrap man. I tried to get my cat design for like transforming into full keeb but unfortunately it turned out rly bad it got like some double borders which broke it int various parts and made me lag like insane i mean onshape was lagging.. so now i gotta redo this same thing tmrw :3 so sweet thx FIGMA
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/fl6AMQ08l5pY)**
+
+* **Images:**
+  > <img width="1283" height="795" alt="Screenshot_2026-08-24_01-56-37" src="https://github.com/user-attachments/assets/1557c410-fef8-4f28-9861-e80d8ae903d4" />
+
+* **Total time spent:** 1 hour 58 minutes
