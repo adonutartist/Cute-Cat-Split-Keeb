@@ -181,3 +181,17 @@ After like 3 hours of just trying to do stuff I needed to delete my progress all
   > <img width="1283" height="795" alt="Screenshot_2026-08-24_01-56-37" src="https://github.com/user-attachments/assets/1557c410-fef8-4f28-9861-e80d8ae903d4" />
 
 * **Total time spent:** 1 hour 58 minutes
+
+# DEVLOG #14
+
+* **Date:** 25 August 00:40 to 25 August 3:00 AM 2026
+
+* **Overview:**
+Finally got the cat imported correctly frikin problem with svg dxf converts is gonna kill me man ;-; they always convert badly. also this time since starting from scratch i made sure to do both halves simultaneously :3
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/Ib2qoODKg3mB)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-25_02-56-09" src="https://github.com/user-attachments/assets/33e338d2-5cde-4452-95db-06f17ef333c9" />
+
+* **Total time spent:** 2 hours 10 minutes
