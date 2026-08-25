@@ -195,3 +195,18 @@ Finally got the cat imported correctly frikin problem with svg dxf converts is g
   > <img width="1920" height="1080" alt="Screenshot_2026-08-25_02-56-09" src="https://github.com/user-attachments/assets/33e338d2-5cde-4452-95db-06f17ef333c9" />
 
 * **Total time spent:** 2 hours 10 minutes
+
+# DEVLOG #15
+
+* **Date:** 26 August 00:40 to 26 August 2:45 AM 2026
+
+* **Overview:**
+Goddam man i HATE FIGMA it frikin makes ur lines so much thicker such that once i convert it to DXF its all multiple lines frikin pissed me off but finally with hardwork i did it!!!! and then my man Shadow (a fellow hackclubber) helped me a lot actually he helped a ton i was so dam confused with mounting style and heatset inserts and screws he frikin gave me enlightment clearing all my confusion xDDD love u man u are a goddam life saviour. so yeh now ik wht to do next its top frame and bottom also deciding on screws and heatset insert length etc. 
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/8vGjv3wEbLbX)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-26_00-31-25" src="https://github.com/user-attachments/assets/38fa9fb5-de7b-4e47-94b4-5efa21429652" /><img width="1920" height="1080" alt="Screenshot_2026-08-26_02-43-28" src="https://github.com/user-attachments/assets/1a27779c-3dce-4abc-bbc4-dffc9aa17585" /><img width="1920" height="1080" alt="Screenshot_2026-08-26_01-45-25" src="https://github.com/user-attachments/assets/7d0fc2ce-b77a-4eb1-9587-e2f196c065e0" /><img width="1920" height="1080" alt="Screenshot_2026-08-26_01-45-06" src="https://github.com/user-attachments/assets/158a048d-2d0c-4af5-abc5-4e691f94037d" />
+
+
+* **Total time spent:** 2 hours 11 minutes
