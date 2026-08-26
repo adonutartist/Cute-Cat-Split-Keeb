@@ -210,3 +210,17 @@ Goddam man i HATE FIGMA it frikin makes ur lines so much thicker such that once 
 
 
 * **Total time spent:** 2 hours 11 minutes
+
+# DEVLOG #16
+
+* **Date:** 26 August 11 PM to 27 August 2:49 AM 2026
+
+* **Overview:**
+Made top frame and the bottom case also add a dip for battery and made screw holes. Onshape is so annoying at times mannn I miss fusion360 it was way easier ;-; anyways tomorrow imma try to complete ths and ship my keeb for review so prolly my second last devlog :> 
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/kax4btwylfyq)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-27_02-47-14" src="https://github.com/user-attachments/assets/39ac2916-ac93-4ad1-9aa2-f75f49a0df23" />
+
+* **Total time spent:** 3 hours 47 minutes
