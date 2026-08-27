@@ -224,3 +224,17 @@ Made top frame and the bottom case also add a dip for battery and made screw hol
   > <img width="1920" height="1080" alt="Screenshot_2026-08-27_02-47-14" src="https://github.com/user-attachments/assets/39ac2916-ac93-4ad1-9aa2-f75f49a0df23" />
 
 * **Total time spent:** 3 hours 47 minutes
+
+# DEVLOG #17
+
+* **Date:** 27 August 10:30 PM to 28 August 2:58 AM 2026
+
+* **Overview:**
+Completed the CAD now need to make the assembly. would've shipped today but onshape wasted so much time crashing cuz i was tryna import my pcb step file from kicad ;-; now theres no way add pcb cuz onshape is js too dam trashy so i thought to js add the componenets at the right place but guess wht it now stutters i frikin added some keys and started lagging like insane no crashes but lag is SO DAM ANNOYING i hate this ;-; gonna ask in erebor if they got any solutions or maybe if i can omit this part ;-;
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/MEkGXJbaae5l)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-28_00-14-01" src="https://github.com/user-attachments/assets/280c9316-63bc-4f50-befd-58620348dd14" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_00-15-09" src="https://github.com/user-attachments/assets/2d1caf38-666c-4c73-ae56-4497488c8c76" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_01-52-20" src="https://github.com/user-attachments/assets/7e8fc936-e2b6-42ad-bf66-33d015fe20fd" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_02-55-24" src="https://github.com/user-attachments/assets/43845c44-28d8-46f0-9a83-66decac8d56c" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_01-52-41" src="https://github.com/user-attachments/assets/8869d54f-5e5e-4baf-a8f4-1770c44da5e3" />
+
+* **Total time spent:** 4 hours 18 minutes
