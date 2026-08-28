@@ -671,7 +671,7 @@
 			(uuid "5eddb4f4-6af1-4310-a456-cba32b40c582")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -1267,7 +1267,7 @@
 			(uuid "a319d68c-b7a8-4de5-83de-5f3e0ab71e8e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -1863,7 +1863,7 @@
 			(uuid "23b4fdb1-634d-451d-a82a-b9e612e723a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -2459,7 +2459,7 @@
 			(uuid "b3aae696-7e55-47a9-b53e-9bcb1cbb2f7c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -3055,7 +3055,7 @@
 			(uuid "a3cb7074-ec18-4775-a614-537366c95c69")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -3651,7 +3651,7 @@
 			(uuid "3b126c94-e486-4513-8868-5475ec625450")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -4247,7 +4247,7 @@
 			(uuid "f0f0bb62-1006-4b9a-9a1f-386adc173843")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -4843,7 +4843,7 @@
 			(uuid "4090260d-54bf-4fcb-b3d2-41f3a074f6ab")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -5439,7 +5439,7 @@
 			(uuid "7d1948eb-c498-4319-a890-8285a18c4f62")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -6035,7 +6035,7 @@
 			(uuid "29d1f8e5-92e9-4b05-b936-6897f2d90bee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -6631,7 +6631,7 @@
 			(uuid "133d0fbb-4f6a-4f12-92e8-b8bdd8c87421")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -7227,7 +7227,7 @@
 			(uuid "938464dc-769f-4ea0-9188-9f397943c165")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -7823,7 +7823,7 @@
 			(uuid "2dbee01b-399f-4245-a5d6-c4eded6d8326")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -8419,7 +8419,7 @@
 			(uuid "57ebd978-f4f6-42ae-9cfc-d1b5e07ac401")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -9015,7 +9015,7 @@
 			(uuid "e135f067-8785-4acb-9b1c-9f13132a5ae4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -9755,7 +9755,7 @@
 			(uuid "801ef21c-c1c0-4b1e-b631-644f284280a7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -10351,7 +10351,7 @@
 			(uuid "295cd371-8765-4f8a-b115-975d205151c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -13322,7 +13322,7 @@
 			(uuid "6b2f0a0c-ef60-4bf7-95b0-350af49d4d25")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -13918,7 +13918,7 @@
 			(uuid "66f35bf1-49c6-446a-b612-0e9c775e55e2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -14514,7 +14514,7 @@
 			(uuid "20eaabec-b325-4a82-b898-230dc775feff")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -15110,7 +15110,7 @@
 			(uuid "0c72f63e-75da-4308-8674-73b0ed7837bf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -15850,7 +15850,7 @@
 			(uuid "eb0808ea-ea16-499c-b872-c1e3fd779243")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -16446,7 +16446,7 @@
 			(uuid "e549534f-d7fd-4781-ad95-7a55bd48fb8a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -17186,7 +17186,7 @@
 			(uuid "7cc39dca-0a93-483a-a158-fc9c18e1564f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -17782,7 +17782,7 @@
 			(uuid "6dfd2ecf-8f0d-4b3b-8ad8-8f7f9709c0e3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -18378,7 +18378,7 @@
 			(uuid "148056ab-30f3-44eb-8aaf-06c9eb81b823")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -18974,7 +18974,7 @@
 			(uuid "11dd0093-7529-4b97-945e-90b8fa2b76a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -19570,7 +19570,7 @@
 			(uuid "4f3f85e7-f651-4819-a0b8-7d0b785e98e3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -20166,7 +20166,7 @@
 			(uuid "d52cf4cf-fa30-49a2-9719-d92dbcfa3c6a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -20762,7 +20762,7 @@
 			(uuid "96245f04-b3a0-4c0e-a690-cbd5c6a04daa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -21358,7 +21358,7 @@
 			(uuid "1d80ad58-878f-4f72-9705-e167f46d4cce")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -21954,7 +21954,7 @@
 			(uuid "d3810ca9-b8f3-4417-b821-3624be2962ae")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -22550,7 +22550,7 @@
 			(uuid "4144864a-a043-4f74-a752-fd9104ddf7d1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -23146,7 +23146,7 @@
 			(uuid "fd8cd63e-00c7-4e6b-80b5-cc1d830d6d4f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -23742,7 +23742,7 @@
 			(uuid "aae054e3-b480-41a8-a998-e58a016b44b1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -24338,7 +24338,7 @@
 			(uuid "08f1c48b-3f4f-4855-9fc1-c4f777061d83")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -24934,7 +24934,7 @@
 			(uuid "33962a29-260f-4acf-b9f8-010bd8700c03")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -25530,7 +25530,7 @@
 			(uuid "75b7bbc4-6e12-4b4e-892d-6c6a73f9853d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -26126,7 +26126,7 @@
 			(uuid "d62baaf6-883d-43ad-b2f7-23f218204315")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -26722,7 +26722,7 @@
 			(uuid "69036ac6-35f7-4454-8214-7fa16d48be79")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -27318,7 +27318,7 @@
 			(uuid "b75cc851-d1f3-49da-862f-7d4be5f4f201")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -27914,7 +27914,7 @@
 			(uuid "64bc72e0-cf1c-4e4f-bdc3-758c0b8feada")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -28510,7 +28510,7 @@
 			(uuid "0d73f24e-479d-4911-a5d5-bd8b41d643fd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -29106,7 +29106,7 @@
 			(uuid "b6523228-e563-4064-a4b5-e76cde97bdde")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -29846,7 +29846,7 @@
 			(uuid "a88f59d5-8876-40f1-9c8a-a6d79da22b53")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -30442,7 +30442,7 @@
 			(uuid "65e6b7ce-8f04-439c-b0b3-5b5de46d667f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -31521,7 +31521,7 @@
 			(uuid "2a7b89f0-2c96-42f2-8566-103a03d14fd6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -32117,7 +32117,7 @@
 			(uuid "39a15b75-4d0f-4b6e-950f-5a1abf3818e7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -32857,7 +32857,7 @@
 			(uuid "64091ea5-cea0-4103-9f05-9760c5f8fc52")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -33453,7 +33453,7 @@
 			(uuid "68d2fcdb-20dc-473e-900e-42393c3ec17f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -33876,15 +33876,15 @@
 			(uuid "549668cc-9f09-4eb0-820b-30e6ef6cf33c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step"
+		(model "${KIPRJMOD}/EC11_Rotary_Encoder_Switched.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.5 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -34472,7 +34472,7 @@
 			(uuid "804637ca-67f5-402f-a86d-e38d71b33501")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -35068,7 +35068,7 @@
 			(uuid "40f64bf3-71e7-45f3-84ef-67db5f932557")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -35664,7 +35664,7 @@
 			(uuid "39890e09-2339-41c0-8aa3-1bd8c736204c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -36260,7 +36260,7 @@
 			(uuid "b3764d3b-69d3-4208-9cfc-6e4dc7426662")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -36856,7 +36856,7 @@
 			(uuid "b081edac-9261-4618-b484-9edb8307c64b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -39029,7 +39029,7 @@
 			(uuid "70e35521-653a-43ec-9ab1-dac01fa06b14")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -39625,7 +39625,7 @@
 			(uuid "b620a57b-2645-4da0-9d65-be3e7841cea2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -40221,7 +40221,7 @@
 			(uuid "c229ad57-3b79-4cfc-b769-20b04c6cd036")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -40817,7 +40817,7 @@
 			(uuid "62dea191-25ed-49e4-93c0-9c494acb230e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -41413,7 +41413,7 @@
 			(uuid "1fdae2bf-3af8-4f03-a284-5ad0e08644d2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -42009,7 +42009,7 @@
 			(uuid "568923f7-088e-483d-ac1a-e9bf01d715fc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -42605,7 +42605,7 @@
 			(uuid "8e6be82a-e718-4e26-afec-e02c0cb9a957")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -43201,7 +43201,7 @@
 			(uuid "1274eee7-072a-4c25-a726-5dd1ff65d430")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -43797,7 +43797,7 @@
 			(uuid "673571c0-4951-410f-bfea-2453878658f5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -44393,7 +44393,7 @@
 			(uuid "b49c39fb-8f36-4723-91d9-b4dd28f90829")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -44989,7 +44989,7 @@
 			(uuid "1f1cf5be-3601-44b3-bb6d-d80daaa42b86")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -45585,7 +45585,7 @@
 			(uuid "63143d43-b6dc-4785-aa8f-207a0bcbca8c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -46181,7 +46181,7 @@
 			(uuid "01bfcd34-23bd-4703-95f4-2621298297aa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG151101S11_MX.step"
+		(model "${KIPRJMOD}/HS_CPG151101S11_MX.step"
 			(offset
 				(xyz -4.82 6.74 1.82)
 			)
@@ -59931,6 +59931,17 @@
 			(uuid "1bc98f74-43cc-488b-872f-d57a52796a95")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/XIAO-nRF52840 v15.step"
+			(offset
+				(xyz 6 -1.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
@@ -76131,6 +76142,17 @@
 			(uuid "08abdf39-b78c-448d-9fe6-52ff3ef4fe27")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/XIAO-nRF52840 v15.step"
+			(offset
+				(xyz 6 -1.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SOD-123"
 		(layer "B.Cu")
