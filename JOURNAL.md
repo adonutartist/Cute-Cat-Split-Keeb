@@ -238,3 +238,17 @@ Completed the CAD now need to make the assembly. would've shipped today but onsh
   > <img width="1920" height="1080" alt="Screenshot_2026-08-28_00-14-01" src="https://github.com/user-attachments/assets/280c9316-63bc-4f50-befd-58620348dd14" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_00-15-09" src="https://github.com/user-attachments/assets/2d1caf38-666c-4c73-ae56-4497488c8c76" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_01-52-20" src="https://github.com/user-attachments/assets/7e8fc936-e2b6-42ad-bf66-33d015fe20fd" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_02-55-24" src="https://github.com/user-attachments/assets/43845c44-28d8-46f0-9a83-66decac8d56c" /><img width="1920" height="1080" alt="Screenshot_2026-08-28_01-52-41" src="https://github.com/user-attachments/assets/8869d54f-5e5e-4baf-a8f4-1770c44da5e3" />
 
 * **Total time spent:** 4 hours 18 minutes
+
+# DEVLOG #18
+
+* **Date:** 29 August 00:13 AM to 29 August 2:55 AM 2026
+
+* **Overview:**
+Couldn't proceed with the assembly frikin lag killing me ;-; so I started doing the BOM and readme. Completed the readme almost doe with bom too so will ship like tmrw fs!!
+
+* **No Lapse Recording for today cuz it was js me doomscrolling so many websites for parts and componenets ;-;**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-29_02-54-14" src="https://github.com/user-attachments/assets/3502c685-dcf9-44e7-9ede-9d9bfbd8d198" />
+
+* **Total time spent:** 2 hours 42 minutes
