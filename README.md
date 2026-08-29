@@ -53,6 +53,7 @@ A wireless split mechanical keyboard with per key kalih hotswap sockets, per key
 
 ## Bill of Materials
 See [`BOM.csv`](./BOM.csv) for the full parts list with references, footprints, and quantities.
+
 Grand Total (both halves combined): ≈ ₹27,510.63 / ≈ $312.62
 
 ## Assembly
