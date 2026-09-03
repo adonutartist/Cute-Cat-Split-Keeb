@@ -252,3 +252,17 @@ Couldn't proceed with the assembly frikin lag killing me ;-; so I started doing 
   > <img width="1920" height="1080" alt="Screenshot_2026-08-29_02-54-14" src="https://github.com/user-attachments/assets/3502c685-dcf9-44e7-9ede-9d9bfbd8d198" />
 
 * **Total time spent:** 2 hours 42 minutes
+
+# DEVLOG #19
+
+* **Date:** 29 August 11 PM to 30 August 2:22 AM 2026
+
+* **Overview:**
+Completed the BOM! found out tht my case is too big for any 3d printer so i gotta split it ;-; yeh its sad wht could i possibly even do to fix this ;-; so yeh gotta wwork with this now and uhh not doing assembly cuz yeh onshape not build for tht and my lappy is ancient. Also looked at ZMK documentations i dont rly like reading documentations so imma js try looking at some examples tht others have made and then reverse engineer from there to make my own firmware for my keeb. also made a list of keybinds like which switch for wht etc... 
+
+* **No Lapse Recording for today cuz it was js me staring at my screen doing boring work which is not technically that important will record mmyself doing firmware tho so stay tuned**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-08-30_02-20-31" src="https://github.com/user-attachments/assets/e19a3603-cd7e-41d0-82d6-7551df808210" />
+
+* **Total time spent:** 3 hours 12 minutes
