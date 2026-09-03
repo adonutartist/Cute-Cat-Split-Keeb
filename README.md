@@ -1,6 +1,6 @@
 # nemoPAD V1
 
-A wireless split mechanical keyboard with per key kalih hotswap sockets, per key underglow RGB, a slide potentiometer for brightness control on the right half, and a rotary encoder for volume control on the left half. Uses a sandwich mount case (bottom case + plate + top frame) held together with heatset inserts and m2 18mm screws. The CAD features a unique design so it can join up to change into a full keeb visually. A project by Nemo made for Forge YSWS by Hackclub.
+A wireless split mechanical keyboard with per key kalih hotswap sockets, per key underglow RGB, a slide potentiometer for brightness control on the right half, and a rotary encoder for volume control on the left half. Uses a sandwich mount case (bottom case + plate + top frame) held together with heatset inserts and m2 20mm screws. The CAD features a unique design so it can join up to change into a full keeb visually. A project by Nemo made for Forge YSWS by Hackclub.
 
 ## Useful links
 - **Total time spent:** [41h 11m](https://hackatime.hackclub.com/@Nemo_Donut/project/Keeb)
@@ -14,7 +14,7 @@ A wireless split mechanical keyboard with per key kalih hotswap sockets, per key
 - MCP23017 I2C GPIO expander per half for full matrix coverage
 - Slide potentiometer (right half) for brightness
 - Rotary encoder with push (left half) for volume
-- Sandwich mount case: top frame + plate + bottom case, screwed together with heatset inserts and m2 18mm screws
+- Sandwich mount case: top frame + plate + bottom case, screwed together with heatset inserts and m2 20mm screws
 
 ## Images
 - Full 3D model render of the assembled keyboard (both halves)
@@ -44,13 +44,13 @@ A wireless split mechanical keyboard with per key kalih hotswap sockets, per key
 ### Sandwich mount stackup
 | Layer | Thickness | Notes |
 |---|---|---|
-| Top frame | 6.3mm | Blind hole Ø3.2mm, 4.6mm deep for the heatset insert, no hole visible from outside |
+| Top frame | 6.3mm | Blind hole Ø3.5mm, 4.6mm deep for the heatset insert, no hole visible from outside |
 | Plate | 1.5mm | Through hole Ø2.4mm for screw clearance |
 | PCB | 1.6mm | |
-| Bottom case (inner wall height) | 7mm | Clears the 3.05mm tall hotswap socket + ~3.16mm USB-C connector on the back layer with margin |
+| Bottom case (inner wall height) | 8mm | Clears the 3.05mm tall hotswap socket + ~3.16mm USB-C connector on the back layer with margin |
 | Bottom case (bottom wall) | 3mm | Ø2.4mm x 1.2mm countersink on the underside so the screw head sits flush |
 
-**Case is attached using** M2 x 4mm x 3.5mm OD brass heatset insert, M2 x 18mm countersunk screw.
+**Case is attached using** M2 x 4mm x 3.8mm OD brass heatset insert, M2 x 20mm countersunk screw.
 
 **Battery pocket:** a local recessed pocket under the battery footprint on the inside of the bottom wall of bottom case (battery is the tallest bottom side component at ~5mm, taller than the general 6mm clearance zone needs). Battery wires are direct soldered to the BAT/GND test points, no connector.
 
