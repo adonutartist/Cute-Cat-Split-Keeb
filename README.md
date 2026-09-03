@@ -18,7 +18,7 @@ A wireless split mechanical keyboard with per key kalih hotswap sockets, per key
 
 ## Images
 - Full 3D model render of the assembled keyboard (both halves)
-  <img width="1868" height="660" alt="Screenshot_2026-08-28_23-53-06" src="https://github.com/user-attachments/assets/1beb9fc9-1d25-4de9-b328-b8eb0f77f147" />
+  <img width="1540" height="519" alt="Screenshot_2026-09-04_02-22-25" src="https://github.com/user-attachments/assets/3a232dfd-a712-42f4-98ec-7c9b9fdd62a9" />
 
 - PCB render/photo with components populated (both halves)
   <img width="1425" height="809" alt="Screenshot_2026-08-28_23-58-05" src="https://github.com/user-attachments/assets/23cb5420-9245-4964-9cdf-646af97ba9ca" /><img width="1398" height="844" alt="Screenshot_2026-08-28_23-58-38" src="https://github.com/user-attachments/assets/dbb1fc2f-e60e-4b54-bd47-6fb57a984e13" /><img width="1676" height="549" alt="Screenshot_2026-08-28_23-59-55" src="https://github.com/user-attachments/assets/5a5c89b3-d482-495f-84af-5bfc4ec5cd66" /><img width="1670" height="629" alt="Screenshot_2026-08-28_23-59-23" src="https://github.com/user-attachments/assets/8a2826cf-8928-458f-8f83-be6b3fa13cd8" />
@@ -27,13 +27,16 @@ A wireless split mechanical keyboard with per key kalih hotswap sockets, per key
   <img width="4096" height="2896" alt="image" src="https://github.com/user-attachments/assets/44add1b8-890f-446d-80d9-4d8634af98d2" /><img width="4096" height="2896" alt="image" src="https://github.com/user-attachments/assets/e582bb9a-8771-4318-a64f-584c0f2b3515" />
 
 - Exploded view of the sandwich mount stack (bottom case / plate / top frame)
-  <img width="1319" height="802" alt="Screenshot_2026-08-29_00-12-12" src="https://github.com/user-attachments/assets/b7efc063-2d6f-40a1-8e0b-d163fa021bef" />
+  <img width="1175" height="755" alt="Screenshot_2026-09-04_00-50-46" src="https://github.com/user-attachments/assets/c9c23030-a82f-4a82-9955-6583c2c8a18b" /><img width="1621" height="394" alt="Screenshot_2026-09-04_00-51-38" src="https://github.com/user-attachments/assets/56c5ee4a-63d6-4c25-afd3-521554b51488" />
+
+- Decal logo, custom encoder knob and hackclub logo emboss
+  <img width="1217" height="631" alt="Screenshot_2026-09-04_01-49-30" src="https://github.com/user-attachments/assets/9b2d7237-ad8b-480b-9239-d40826769d83" /><img width="1483" height="761" alt="Screenshot_2026-09-04_01-49-09" src="https://github.com/user-attachments/assets/01323123-45d1-48f9-b91f-449617c4ae7c" /><img width="1365" height="831" alt="Screenshot_2026-09-04_00-55-01" src="https://github.com/user-attachments/assets/882a1318-ce00-4176-8b7f-69cde2169131" /><img width="1286" height="845" alt="Screenshot_2026-09-04_00-54-28" src="https://github.com/user-attachments/assets/057fdf02-d924-4327-baff-f9963403a1ac" />
 
 ## From concept to CAD
 <p align="center">
-  <img width="42%" height="1479" alt="1dd2464e-4f92-4cd7-a45b-adbc3583a7b4" src="https://github.com/user-attachments/assets/3b827c1e-4936-42f4-9cda-f3b9f34c285b" />
+  <img width="42%" alt="1dd2464e-4f92-4cd7-a45b-adbc3583a7b4" src="https://github.com/user-attachments/assets/3b827c1e-4936-42f4-9cda-f3b9f34c285b" />
   &nbsp;&nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="42%" height="660" alt="Screenshot_2026-08-28_23-53-06" src="https://github.com/user-attachments/assets/4b1a8da9-74fb-4685-b732-ddd5b3463b1c" />
+  <img width="42%" alt="Screenshot_2026-09-04_02-22-25" src="https://github.com/user-attachments/assets/aeeb57b2-e42c-4cd8-bda7-bd16f9c383ce" />
 </p>
 
 ## Hardware design
