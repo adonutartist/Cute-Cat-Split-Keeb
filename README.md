@@ -79,7 +79,7 @@ See [`BOM.csv`](./BOM.csv) for the full parts list with references, footprints, 
 | PCB (2-layer panel) | 5 | ₹ 5,003.00 / $52.97 |
 | Heatset Insert | 8 | ₹ 108.65 / $1.15 |
 | Case Screw | 8 | (included above) |
-| 3D Printed Parts (case, plate, frame, knob) | 7 | ₹ 1,956.06 / $20.71 |
+| 3D Printed Parts (case, plate, frame, knob, keycap) | 7 | ₹ 1,956.06 / $20.71 |
 | **GRAND TOTAL** | | **₹ 15,915.81 / $168.51** |
 
 ## Assembly
