@@ -52,9 +52,32 @@ A wireless split mechanical keyboard with per key kalih hotswap sockets, per key
 **Battery pocket:** a local recessed pocket under the battery footprint on the inside of the bottom wall of bottom case (battery is the tallest bottom side component at ~5mm, taller than the general 6mm clearance zone needs). Battery wires are direct soldered to the BAT/GND test points, no connector.
 
 ## Bill of Materials
-See [`BOM.csv`](./BOM.csv) for the full parts list with references, footprints, and quantities.
+See [`BOM.csv`](./BOM.csv) for the full parts list with references, footprints, product links, and important notes.
 
-Grand Total (both halves combined): ≈ ₹27,510.63 / ≈ $312.62
+### Summarised version:
+
+| Component | Quantity | Total Price |
+|---|---|---|
+| 1N914 Diodes | 68 | ₹ 159.80 / $1.69 |
+| SK6812MINI-E LEDs | 70 | ₹ 619.20 / $6.56 |
+| 8.2k Resistor | 2 | ₹ 10.26 / $0.11 |
+| 10k Resistor | 2 | ₹ 10.08 / $0.11 |
+| Bourns Slide Potentiometer | 1 | ₹ 286.78 / $3.04 |
+| Alps EC11E Rotary Encoder | 1 | NA (reused from kit) |
+| Kailh Hotswap Sockets (all sizes) | 68 | ₹ 350.00 / $3.71 |
+| MX-style Switches (all sizes) | 68 | ₹ 2,598.00 / $27.51 |
+| Keycaps – 1u | 60 | ₹ 1,020.00 / $10.80 |
+| Keycaps – 1.75u | 4 | ₹ 180.00 / $1.91 |
+| Keycaps – 1.5u | 2 | ₹ 180.00 / $1.91 |
+| Keycaps – 1.25u | 2 | NA (3D printed) |
+| MCP23017 GPIO Expander | 2 | ₹ 539.00 / $5.71 |
+| XIAO nRF52840 (modified) | 2 | ₹ 2,418.00 / $25.60 |
+| LiPo Battery 500mAh | 2 | ₹ 476.98 / $5.05 |
+| PCB (2-layer panel) | 5 | ₹ 5,003.00 / $52.97 |
+| Heatset Insert | 8 | ₹ 108.65 / $1.15 |
+| Case Screw | 8 | (included above) |
+| 3D Printed Parts (case, plate, frame, knob) | 7 | ₹ 1,956.06 / $20.71 |
+| **GRAND TOTAL** | | **₹ 15,915.81 / $168.51** |
 
 ## Assembly
 1. Solder components to both PCB halves (or have them assembled), separate the panel at the mousebite tabs
