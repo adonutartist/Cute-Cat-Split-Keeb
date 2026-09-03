@@ -266,3 +266,17 @@ Completed the BOM! found out tht my case is too big for any 3d printer so i gott
   > <img width="1920" height="1080" alt="Screenshot_2026-08-30_02-20-31" src="https://github.com/user-attachments/assets/e19a3603-cd7e-41d0-82d6-7551df808210" />
 
 * **Total time spent:** 3 hours 12 minutes
+
+# DEVLOG #20
+
+* **Date:** 2 September 10 PM to 3 September 1 AM and 3 September 11 PM to 4 September 2:40 AM 2026
+
+* **Overview:**
+Completed the BOM againnnn... yeh so this one guy named neeraj on slack he helped me a lot with this so wht happened was that my BOM total amount looked hilarious so i had to find ways to reduce this but i js couldn't and then this neeraj guy gave me a slink to a slack channel canvas that had listings for all cheap trusted websites for keyboard parts and tht greatly reduced my total amount from 300 usd to 170 usd!! yeh i am not kidding this was frikin life changer. Also i had to make some minor changes in CAD cuz i js couldn't find m2 18mm screws so i went with m2 20mm so increases the height of bottom case and then the inserts i used has OD 3.5mm but in the websites i could only find OD 3.8mm so i js changes hole size according to tht! now everything is cool BOM is finally complete. I also made two 1.25u keycaps for 3D printing cuz my keycap set didnt had those and then i also made a knob for rotary encoder and added hackclub logo emboss and a decal for my logog.
+
+* **No Lapse Recording**
+
+* **Images:**
+  > <img width="1286" height="845" alt="Screenshot_2026-09-04_00-54-28" src="https://github.com/user-attachments/assets/5d310e3c-27e8-4c6b-bc5c-dfca2945d5a4" /><img width="1217" height="631" alt="Screenshot_2026-09-04_01-49-30" src="https://github.com/user-attachments/assets/4ab72293-5be6-4e7a-b70f-da897a32c433" /><img width="1483" height="761" alt="Screenshot_2026-09-04_01-49-09" src="https://github.com/user-attachments/assets/3ceca9a6-3189-48ec-a751-e93e3a258e02" /><img width="1365" height="831" alt="Screenshot_2026-09-04_00-55-01" src="https://github.com/user-attachments/assets/119ff3f9-c461-4957-bf64-73cb0d3496e8" />
+
+* **Total time spent:** 6 hours 40 minutes
