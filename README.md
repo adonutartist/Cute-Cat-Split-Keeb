@@ -5,7 +5,7 @@ A wireless split mechanical keyboard with per key kalih hotswap sockets, per key
 NOTE TO REVIEWER: I didn't make an assembly with case PCB and all components because Importing PCB into onshape was way too laggy and crashed, Adding lots of components also made onshape lag like crazy and crash so I abandoned doing that I hope you understand. I have a potato laptop from 2020 its really a budget laptop so please understand... 
 
 ## Useful links
-- **Total time spent:** [41h 11m](https://hackatime.hackclub.com/@Nemo_Donut/project/Keeb)
+- **Total time spent:** [56h 2m](https://hackatime.hackclub.com/@Nemo_Donut/project/Keeb)
 - **Devlogs:** [`JOURNAL.md`](./JOURNAL.md)
 - **Onshape:** [CAD part of the project](https://cad.onshape.com/documents/d864244cbdf9531af3bfa9a7/w/1dab6020ee26630806b280f9/e/8f26d1999df9f3097243071e)
 
