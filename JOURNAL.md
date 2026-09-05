@@ -280,3 +280,18 @@ Completed the BOM againnnn... yeh so this one guy named neeraj on slack he helpe
   > <img width="1286" height="845" alt="Screenshot_2026-09-04_00-54-28" src="https://github.com/user-attachments/assets/5d310e3c-27e8-4c6b-bc5c-dfca2945d5a4" /><img width="1217" height="631" alt="Screenshot_2026-09-04_01-49-30" src="https://github.com/user-attachments/assets/4ab72293-5be6-4e7a-b70f-da897a32c433" /><img width="1483" height="761" alt="Screenshot_2026-09-04_01-49-09" src="https://github.com/user-attachments/assets/3ceca9a6-3189-48ec-a751-e93e3a258e02" /><img width="1365" height="831" alt="Screenshot_2026-09-04_00-55-01" src="https://github.com/user-attachments/assets/119ff3f9-c461-4957-bf64-73cb0d3496e8" />
 
 * **Total time spent:** 6 hours 40 minutes
+
+# DEVLOG #21
+
+* **Date:** 5 September 10 PM to 6 September 2:35 AM 2026
+
+* **Overview:**
+Completed the firmware first I quickly read the zmk docs understood actually i also read it once during the day it was pretty easy so i completed all of it in one sitting... dont know if it will work but its barebones enough to ship...
+last devlog of design phase prolly will ship and hope to get aprroved now lol.
+
+* **[Lapse Recording](https://lapse.hackclub.com/timelapse/QY5ti9HtTKar)**
+
+* **Images:**
+  > <img width="1920" height="1080" alt="Screenshot_2026-09-06_02-31-27" src="https://github.com/user-attachments/assets/ea34a998-7368-4de6-841d-33cbdef513bc" />
+
+* **Total time spent:** 3 hours 41 minutes
