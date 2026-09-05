@@ -2,6 +2,8 @@
 
 A wireless split mechanical keyboard with per key kalih hotswap sockets, per key underglow RGB, a slide potentiometer for brightness control on the right half, and a rotary encoder for volume control on the left half. Uses a sandwich mount case (bottom case + plate + top frame) held together with heatset inserts and m2 20mm screws. The CAD features a unique design so it can join up to change into a full keeb visually. A project by Nemo made for Forge YSWS by Hackclub.
 
+NOTE TO REVIEWER: I didn't make an assembly with case PCB and all components because Importing PCB into onshape was way too laggy and crashed, Adding lots of components also made onshape lag like crazy and crash so I abandoned doing that I hope you understand. I have a potato laptop from 2020 its really a budget laptop so please understand... 
+
 ## Useful links
 - **Total time spent:** [41h 11m](https://hackatime.hackclub.com/@Nemo_Donut/project/Keeb)
 - **Devlogs:** [`JOURNAL.md`](./JOURNAL.md)
