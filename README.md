@@ -91,11 +91,47 @@ See [`BOM.csv`](./BOM.csv) for the full parts list with references, footprints, 
 6. Flahing steps still needs work.
 
 ## Flashing
-<!-- TODO: firmware repo link, flashing instructions -->
+
+The keyboard uses two Seeed XIAO nRF52840 boards, one for each half. Separate firmware files are provided for the left and right halves.
+
+### Requirements
+
+* USB-C data cable
+* Computer
+* The appropriate `.uf2` firmware file
+
+### Flash the Left Half
+
+1. Connect the **left-half XIAO nRF52840** to your computer via USB.
+2. Double-click the XIAO's **Reset** button to enter bootloader mode.
+3. A USB mass-storage drive should appear.
+4. Copy `zmk_left.uf2` onto the bootloader drive (Found inside Firmware folder).
+5. The XIAO will automatically reboot after the firmware is copied.
+
+### Flash the Right Half
+
+1. Connect the **right-half XIAO nRF52840** to your computer via USB.
+2. Double-click the XIAO's **Reset** button to enter bootloader mode.
+3. A USB mass-storage drive should appear.
+4. Copy `zmk_right.uf2` onto the bootloader drive (Found inside Firmware folder).
+5. The XIAO will automatically reboot after the firmware is copied.
+
+### Firmware Source
+
+The firmware is built using **ZMK** with the Seeed XIAO nRF52840 target.
+
+The provided firmware files are:
+
+```text
+Firmware/
+├── zmk_left.uf2
+└── zmk_right.uf2
+```
+
+The firmware currently represents the development stage prototype. Both left and right firmware builds complete successfully; physical flashing and keyboard testing will be performed once the PCBs and components are available.
 
 ---
 
-<!-- TODO: replace logo.png with your actual logo filename -->
 <p align="center">
   <img width="120" alt="nemo" src="https://github.com/user-attachments/assets/b7678182-ac80-43ee-81a7-a9201e3da078" />
 </p>
