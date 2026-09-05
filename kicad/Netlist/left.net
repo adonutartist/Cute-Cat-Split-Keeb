@@ -1,0 +1,10198 @@
+(export
+	(version "E")
+	(design
+		(source "/home/nemodonut/Desktop/Cute-Cat-Split-Keeb/kicad/left.kicad_sch")
+		(date "2026-09-05T22:19:20")
+		(tool "Eeschema 10.0.5")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "left.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "D66")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d23fac26-edb5-4382-ab7e-c6babafbf983")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D67")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "db19577e-6472-484c-b28e-0d2df36df62b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D68")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5d082eb9-f5ab-401b-94a2-e8c4bbeb35f5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D69")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c7632768-8ff5-45e9-a700-25e3e3f0beaa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D70")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "af4e7174-6473-4994-b8c0-84f33dd39c43")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D71")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bc44c30a-7482-417c-a533-ddd4f216c743")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D72")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3868f690-16fd-492d-b1d3-5325e3a539a5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D73")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ff57ede4-8466-40f0-8361-fcdec8ff8ae4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D74")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e670b195-b5fb-42d9-bee2-1c5d9d1a63d6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D75")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7147184f-a249-4368-a5ae-dee5dba03af4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D76")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1feada67-eff8-4a6e-8134-1b0cff9240f1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D77")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3d711a5b-fab2-40ca-bfbe-4400c8950ec2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D78")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "18184e0f-0d04-4eab-888f-75e09f55b04d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D79")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8cda10d7-0016-463f-ae43-ef46f26d58c8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D80")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "db800adf-b951-4acb-b8e6-09792f4af885")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D81")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d53ecc78-0c64-4dc5-80b1-b1ef4170422a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D82")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "08c2aeb7-16cb-4780-8f89-859d16bf15d8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D83")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "35751770-ce8f-438b-a285-4441a109d1a1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D84")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e535b785-f914-4bbe-a0e8-9ca68d9d2360")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D85")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a24b9f7e-b607-4575-ab47-30eb33d8aebd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D86")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "eed33a2e-c60f-4f55-9f28-99a88f50be2b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D87")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9fefb963-191d-42ee-a10d-e300da9e935a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D88")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ece86485-aef6-4bd0-b643-a09c36448766")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D89")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "736771e4-3fab-4897-b5c0-882f1ac5e197")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D90")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "01a0c94e-9a89-43a6-bb56-0e65ec5805a0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D91")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5ccd6338-053c-4bc0-bcec-3cae931de48d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D92")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f8ca8e5e-f212-464f-b79d-66d55bc7250f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D93")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b67dbf35-810e-4b91-ac75-60ee0aac944a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D94")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fc121a33-7c99-4c06-aa14-f232dab871fa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D95")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "14ffae69-92e8-4088-b941-f6556c50ed6e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D96")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b049270e-6ceb-4be1-bec5-2b214a785375")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D97")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "fd1d99a1-bb9f-420d-b0da-8e2ed44a7f44")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D98")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c1ee0928-68f2-4b85-8412-69853f25b4b9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D99")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ad182fd9-2f53-4ff7-aeb2-c51e3715cddc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D100")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c7c58474-ceb5-4010-b4e7-9feb463e1e3b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D101")
+			(value "1N914")
+			(footprint "Diode_SMD:D_SOD-123")
+			(datasheet "http://www.vishay.com/docs/85622/1n914.pdf")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(fields
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-123")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(libsource
+				(lib "Diode")
+				(part "1N914")
+				(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			)
+			(property
+				(name "Sim.Device")
+				(value "D")
+			)
+			(property
+				(name "Sim.Pins")
+				(value "1=K 2=A")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "D*DO?35*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e4160add-7ed8-4fc8-ad8c-4638e4da9f9d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D102")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f47d60ef-8d9c-4a39-9458-1c5c1e2f1619")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D103")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "caf21940-794b-4f09-94ab-1f1e50e9af3d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D104")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d6ff8fbd-19bc-4fb4-b35d-e798019fd37c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D105")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "11e8f0d2-f41d-4408-af26-3f7aafadd7b3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D106")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c1699901-8f3b-4223-9fa2-f367529f9eea")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D107")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "baa522fe-d8e5-453f-b2db-17147c0030c4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D108")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "6ded48df-3458-4fe9-82dc-9caf0b4d8b76")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D109")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8da046fb-bfd5-4485-8c35-60e0d178a56f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D110")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "94517e2e-db4d-4195-a528-acf0e3ddc28d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D111")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "29cea635-7253-437e-b78a-3f07480b2b2d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D112")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f302e238-5a9d-445d-aaa2-5a3d201b4ea1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D113")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "001f1888-cd35-4d56-94eb-ab2dd3df6f0d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D114")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a72104a9-9c94-457b-8905-7fdd8c9e13c9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D115")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4cb16f98-ce50-479b-865f-bbff83562b34")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D116")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a271f44b-b194-4488-aa8c-f4d116c70f79")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D117")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8ff8319c-5a64-4f72-aac0-9e404a95a952")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D118")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9531759e-2114-4d48-b4a0-e55464e93d37")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D119")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "413ba3a1-a2c1-437e-ba77-d965f3a4976b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D120")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e3ceae41-bf3b-44d9-9e84-3ad78c266f4b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D121")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "81b40044-1f9c-4504-adba-5b9555a4b663")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D122")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1c7e3048-bf7e-485e-9da9-bbc5764efb9f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D123")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "02372216-ce81-4e2d-a93a-99e8db2f1388")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D124")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7f90108b-eba8-4e7b-9da0-ba8e2c5eb468")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D125")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "10ebfd36-15a3-4028-bdc3-e3b255a9f547")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D126")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "23bea02f-1979-4700-9c33-73eea2ec5b30")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D127")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9cdbb16d-b4d6-4760-87fd-94cc75c18095")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D128")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c8858e2b-ed58-4c90-bbd8-5aaa27a92c52")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D129")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0ce1a96e-eb42-48b7-9d5f-ef2ccc68099e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D130")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e6752d36-4cbd-44b3-89f9-c0523541a2e3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D131")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7a857f7f-a900-4b85-b014-d846cb0c7e27")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D132")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "10d7221f-036f-4278-a64e-3e5fd10917aa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D133")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "514ad6cb-27e5-4f9a-8c6e-453a9c20893d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D134")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4315de2b-3040-42fa-95d0-acae4b518081")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D135")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "04f38427-065a-45f5-8c0e-9794ceecebbe")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D136")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5b0bdb82-7c3a-41fd-886c-ded7c0abf5d4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D137")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "dd0debd8-012f-4357-800f-26da9f141ee0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D138")
+			(value "SK6812MINI-E")
+			(footprint "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+			(datasheet "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(description "RGB LED with integrated controller")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(libsource
+				(lib "LED")
+				(part "SK6812MINI-E")
+				(description "RGB LED with integrated controller")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "RGB LED NeoPixel addressable")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7c8a2aa9-5233-444c-abfc-3b84f20aa83c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "806k")
+			(footprint "Resistor_SMD:R_0805_2012Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "eabc8eea-1934-45f4-9abc-a09ec3b199fa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "1M")
+			(footprint "Resistor_SMD:R_0805_2012Metric")
+			(description "Resistor")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7118e606-2c94-4603-9b9c-ec5ab4fb54b8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW33")
+			(value "RotaryEncoder_Switch")
+			(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
+			(description "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			(fields
+				(field
+					(name "Footprint") "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			)
+			(libsource
+				(lib "Device")
+				(part "RotaryEncoder_Switch")
+				(description "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "rotary switch encoder switch push button")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "RotaryEncoder*Switch*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0dcf58d2-84aa-4e4c-9e26-7a1db1ce38f9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "A")
+						)
+						(pin
+							(num "C")
+						)
+						(pin
+							(num "B")
+						)
+						(pin
+							(num "S1")
+						)
+						(pin
+							(num "S2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW34")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b5c4a7d2-114b-46bf-976a-1e2a5abdddd3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW35")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3d4a0c84-4ed0-4aaf-92ab-ff820071e5c3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW36")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0c378783-1526-4d20-9ee2-ce2981051b2d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW37")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f80acdff-923b-4c1a-8f1c-cb06858f9ff1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW38")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c05b583a-e348-4988-8a4a-7f0fd16e3979")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW39")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "92592947-3714-44e0-a9c7-313e613c280e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW40")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ca46a7fd-9743-479b-b1c4-2ea97800569c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW41")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3a4d8d29-e9d1-4cfb-9eab-60855528e59b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW42")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ce67232c-1c93-4809-82d6-13aead40bef0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW43")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d4ec206b-eb41-4491-b593-a961d3b4b9c4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW44")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "44fb47bd-daf3-403f-a03b-bb0b1ec24316")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW45")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4a0e8e89-fe79-4fba-988b-f2d0297fe261")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW46")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "78902786-78f4-491e-8d62-8ea3e8245bae")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW47")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "61495198-ca97-4bd9-9264-1b4abde8095a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW48")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b0c73218-81ce-48a1-9389-2ad56dfc58db")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW49")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3d944c21-2445-47bb-904a-fe31859d87ed")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW50")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "05ef306b-ae38-4673-8c92-2bf7ee966b37")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW51")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ef60951a-9e2b-4550-9161-f8442edc497f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW52")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bf63155d-9919-4f00-98aa-bc154125ae67")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW53")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ad8050e8-6ab0-4ae8-a167-be5be0adb489")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW54")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "d6fef924-6908-472a-9f99-a6a07ba6bddb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW55")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "33ac206a-8731-4006-9441-03b4bd01d916")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW56")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e463bd2f-4a2d-4e34-b6d6-35dc7df6c2e4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW57")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f9c4468e-c5f8-4229-a298-0bb3b80e3aaa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW58")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "617a59af-d083-4457-9f4b-39ceeab94e22")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW59")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "28b51ae9-d886-45bb-88ff-0834d7ba1bbc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW60")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1cb1b077-36b1-489c-968c-a93d5a7ece1b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW61")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "45ddb932-9885-4c7a-9abb-6ab7696efa04")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW62")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a2470a04-c478-4950-9fee-b59239c2413c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW63")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9ec01c04-da4a-4c90-91bd-c390a1805bd0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW64")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "7fd40db8-47c5-4b4a-ba63-6fb3b1a8f113")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW65")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bab2fc07-98ba-4d9c-92e5-c7d093b5898c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW66")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0073b212-7326-47de-84b8-95bb9aaa1f6b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW67")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.25u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f20709fc-0a48-42ef-912c-29f55f6ad410")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW68")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ce36b8b8-5d77-497a-93d9-d7df4b67d4c4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SW69")
+			(value "SW_Push")
+			(footprint "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Footprint") "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.75u")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(libsource
+				(lib "Switch")
+				(part "SW_Push")
+				(description "Push button switch, generic, two pins")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "switch normally-open pushbutton push-button")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "48883673-1b61-4a8c-890c-d676517b5b64")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP3")
+			(value "BAT")
+			(footprint "TestPoint:TestPoint_Pad_D2.0mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D2.0mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4b814045-d888-43dc-afcb-6019ca25d32d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP4")
+			(value "GND")
+			(footprint "TestPoint:TestPoint_Pad_D2.0mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D2.0mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ae33c9eb-1671-4974-a5f5-204066dba9dd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U3")
+			(value "MCP23017x-x-SS")
+			(footprint "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm")
+			(datasheet "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf")
+			(description "16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm")
+				(field
+					(name "Datasheet") "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf")
+				(field
+					(name "Description") "16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28")
+			)
+			(libsource
+				(lib "Interface_Expansion")
+				(part "MCP23017x-x-SS")
+				(description "16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Microchip port-expander GPIO")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SSOP*5.3x10.2mm*P0.65mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "18548568-0e20-43a0-9b06-1227d5bbc134")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "20")
+						)
+						(pin
+							(num "19")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "21")
+						)
+						(pin
+							(num "22")
+						)
+						(pin
+							(num "23")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "27")
+						)
+						(pin
+							(num "28")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U4")
+			(value "XIAO-nRF52840-SMD")
+			(footprint "modified-XIAO-nRF52840-SMD:modified-XIAO-nRF52840-SMD")
+			(fields
+				(field
+					(name "Footprint") "modified-XIAO-nRF52840-SMD:modified-XIAO-nRF52840-SMD")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Seeed_Studio_XIAO_Series")
+				(part "XIAO-nRF52840-SMD")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "left.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "28b38a4a-37ed-4475-b292-23c076c1067f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "32")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "33")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "34")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "27")
+						)
+						(pin
+							(num "35")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Connector")
+			(part "TestPoint")
+			(description "test point")
+			(footprints
+				(fp "Pin*")
+				(fp "Test*")
+			)
+			(fields
+				(field
+					(name "Reference") "TP")
+				(field
+					(name "Value") "TestPoint")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "R")
+			(description "Resistor")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "RotaryEncoder_Switch")
+			(description "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			(footprints
+				(fp "RotaryEncoder*Switch*")
+			)
+			(fields
+				(field
+					(name "Reference") "SW")
+				(field
+					(name "Value") "RotaryEncoder_Switch")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			)
+			(pins
+				(pin
+					(num "A")
+					(name "A")
+					(type "passive")
+				)
+				(pin
+					(num "B")
+					(name "B")
+					(type "passive")
+				)
+				(pin
+					(num "C")
+					(name "C")
+					(type "passive")
+				)
+				(pin
+					(num "S1")
+					(name "S1")
+					(type "passive")
+				)
+				(pin
+					(num "S2")
+					(name "S2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Diode")
+			(part "1N914")
+			(description "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+			(docs "http://www.vishay.com/docs/85622/1n914.pdf")
+			(footprints
+				(fp "D*DO?35*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "1N914")
+				(field
+					(name "Footprint") "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+				(field
+					(name "Datasheet") "http://www.vishay.com/docs/85622/1n914.pdf")
+				(field
+					(name "Description") "100V 0.3A Small Signal Fast Switching Diode, DO-35")
+				(field
+					(name "Sim.Device") "D")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Interface_Expansion")
+			(part "MCP23017x-x-SS")
+			(description "16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28")
+			(docs "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf")
+			(footprints
+				(fp "SSOP*5.3x10.2mm*P0.65mm*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "MCP23017x-x-SS")
+				(field
+					(name "Footprint") "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm")
+				(field
+					(name "Datasheet") "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf")
+				(field
+					(name "Description") "16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "GPB0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "2")
+					(name "GPB1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "GPB2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "GPB3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "GPB4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "6")
+					(name "GPB5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "7")
+					(name "GPB6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "8")
+					(name "GPB7")
+					(type "output")
+				)
+				(pin
+					(num "9")
+					(name "V_{DD}")
+					(type "power_in")
+				)
+				(pin
+					(num "10")
+					(name "V_{SS}")
+					(type "power_in")
+				)
+				(pin
+					(num "11")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "12")
+					(name "SCK")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "SDA")
+					(type "bidirectional")
+				)
+				(pin
+					(num "14")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "15")
+					(name "A0")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "A1")
+					(type "input")
+				)
+				(pin
+					(num "17")
+					(name "A2")
+					(type "input")
+				)
+				(pin
+					(num "18")
+					(name "~{RESET}")
+					(type "input")
+				)
+				(pin
+					(num "19")
+					(name "INTB")
+					(type "tri_state")
+				)
+				(pin
+					(num "20")
+					(name "INTA")
+					(type "tri_state")
+				)
+				(pin
+					(num "21")
+					(name "GPA0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "22")
+					(name "GPA1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "23")
+					(name "GPA2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "24")
+					(name "GPA3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "25")
+					(name "GPA4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "26")
+					(name "GPA5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "27")
+					(name "GPA6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "28")
+					(name "GPA7")
+					(type "output")
+				)
+			)
+		)
+		(libpart
+			(lib "LED")
+			(part "SK6812MINI-E")
+			(description "RGB LED with integrated controller")
+			(docs "https://www.lcsc.com/datasheet/C5149201.pdf")
+			(footprints
+				(fp "LED?SK6812MINI?E?3.2x2.8mm?P1.5mm*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "SK6812MINI-E")
+				(field
+					(name "Footprint") "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount")
+				(field
+					(name "Datasheet") "https://www.lcsc.com/datasheet/C5149201.pdf")
+				(field
+					(name "Description") "RGB LED with integrated controller")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "DIN")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "4")
+					(name "DOUT")
+					(type "output")
+				)
+			)
+		)
+		(libpart
+			(lib "Seeed_Studio_XIAO_Series")
+			(part "XIAO-nRF52840-SMD")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "XIAO-nRF52840-SMD")
+				(field
+					(name "Footprint") "Seeed_Studio_XIAO_Series:XIAO-nRF52840-SMD")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "P0.02_A0_D0")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "P0.03_A1_D1")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "P0.28_A2_D2")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "P0.29_A3_D3")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "P0.04_A4_D4_SDA")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "P0.05_A5_D5_SCL")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "P1.11_D6_TX")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "P1.12_D7_RX")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "P1.13_D8_SCK")
+					(type "passive")
+				)
+				(pin
+					(num "10")
+					(name "P1.14_D9_MISO")
+					(type "passive")
+				)
+				(pin
+					(num "11")
+					(name "P1.15_D10_MOSI")
+					(type "passive")
+				)
+				(pin
+					(num "12")
+					(name "3V3")
+					(type "passive")
+				)
+				(pin
+					(num "13")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "14")
+					(name "VBUS")
+					(type "passive")
+				)
+				(pin
+					(num "24")
+					(name "SWDIO")
+					(type "passive")
+				)
+				(pin
+					(num "25")
+					(name "SWCLK")
+					(type "passive")
+				)
+				(pin
+					(num "26")
+					(name "RESET")
+					(type "passive")
+				)
+				(pin
+					(num "27")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "32")
+					(name "BAT")
+					(type "passive")
+				)
+				(pin
+					(num "33")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "34")
+					(name "P0.09_NFC1")
+					(type "passive")
+				)
+				(pin
+					(num "35")
+					(name "P0.10_NFC2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Switch")
+			(part "SW_Push")
+			(description "Push button switch, generic, two pins")
+			(fields
+				(field
+					(name "Reference") "SW")
+				(field
+					(name "Value") "SW_Push")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Push button switch, generic, two pins")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Connector")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+		(library
+			(logical "Diode")
+			(uri "${KICAD10_SYMBOL_DIR}/Diode.kicad_sym")
+		)
+		(library
+			(logical "Interface_Expansion")
+			(uri "${KICAD10_SYMBOL_DIR}/Interface_Expansion.kicad_sym")
+		)
+		(library
+			(logical "LED")
+			(uri "${KICAD10_SYMBOL_DIR}/LED.kicad_sym")
+		)
+		(library
+			(logical "Switch")
+			(uri "${KICAD10_SYMBOL_DIR}/Switch.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "+3.3V")
+			(class "Default")
+			(node
+				(ref "D102")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D103")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D104")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D105")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D106")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D107")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D108")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D109")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D110")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D111")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D112")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D113")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D114")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D115")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D116")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D117")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D118")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D119")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D120")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D121")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D122")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D123")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D124")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D125")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D126")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D127")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D128")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D129")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D130")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D131")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D132")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D133")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D134")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D135")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D136")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D137")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D138")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U3")
+				(pin "18")
+				(pinfunction "~{RESET}_18")
+				(pintype "input")
+			)
+			(node
+				(ref "U3")
+				(pin "9")
+				(pinfunction "V_{DD}_9")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U4")
+				(pin "12")
+				(pinfunction "3V3_12")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "2")
+			(name "/BT_PIN")
+			(class "Default")
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "1")
+				(pinfunction "P0.02_A0_D0_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "/COL0")
+			(class "Default")
+			(node
+				(ref "SW34")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW35")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW36")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW37")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW38")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW39")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "21")
+				(pinfunction "GPA0_21")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "4")
+			(name "/COL1")
+			(class "Default")
+			(node
+				(ref "SW40")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW41")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW42")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW43")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW44")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW45")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "22")
+				(pinfunction "GPA1_22")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "5")
+			(name "/COL2")
+			(class "Default")
+			(node
+				(ref "SW46")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW47")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW48")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW49")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW50")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW51")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "23")
+				(pinfunction "GPA2_23")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "6")
+			(name "/COL3")
+			(class "Default")
+			(node
+				(ref "SW52")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW53")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW54")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW55")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW56")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW57")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "24")
+				(pinfunction "GPA3_24")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "7")
+			(name "/COL4")
+			(class "Default")
+			(node
+				(ref "SW58")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW59")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW60")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW61")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW62")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW63")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "25")
+				(pinfunction "GPA4_25")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "8")
+			(name "/COL5")
+			(class "Default")
+			(node
+				(ref "SW64")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW65")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW66")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW67")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW68")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW69")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "26")
+				(pinfunction "GPA5_26")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "9")
+			(name "/EA")
+			(class "Default")
+			(node
+				(ref "SW33")
+				(pin "A")
+				(pinfunction "A_A")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "28")
+				(pinfunction "GPA7_28")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "10")
+			(name "/EB")
+			(class "Default")
+			(node
+				(ref "SW33")
+				(pin "B")
+				(pinfunction "B_B")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "27")
+				(pinfunction "GPA6_27")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "11")
+			(name "/ES")
+			(class "Default")
+			(node
+				(ref "SW33")
+				(pin "S1")
+				(pinfunction "S1_S1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "1")
+				(pinfunction "GPB0_1")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "12")
+			(name "/LED")
+			(class "Default")
+			(node
+				(ref "D102")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "U4")
+				(pin "35")
+				(pinfunction "P0.10_NFC2_35")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "/ROW0")
+			(class "Default")
+			(node
+				(ref "D66")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D72")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D78")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D84")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D90")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D96")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "2")
+				(pinfunction "P0.03_A1_D1_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "/ROW1")
+			(class "Default")
+			(node
+				(ref "D67")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D73")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D79")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D85")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D91")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D97")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "3")
+				(pinfunction "P0.28_A2_D2_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "/ROW2")
+			(class "Default")
+			(node
+				(ref "D68")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D74")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D80")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D86")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D92")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D98")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "4")
+				(pinfunction "P0.29_A3_D3_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "/ROW3")
+			(class "Default")
+			(node
+				(ref "D69")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D75")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D81")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D87")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D93")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D99")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "7")
+				(pinfunction "P1.11_D6_TX_7")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "/ROW4")
+			(class "Default")
+			(node
+				(ref "D100")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D70")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D76")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D82")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D88")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D94")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "9")
+				(pinfunction "P1.13_D8_SCK_9")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "/ROW5")
+			(class "Default")
+			(node
+				(ref "D101")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D71")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D77")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D83")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D89")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D95")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "8")
+				(pinfunction "P1.12_D7_RX_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "/SCL")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "12")
+				(pinfunction "SCK_12")
+				(pintype "input")
+			)
+			(node
+				(ref "U4")
+				(pin "6")
+				(pinfunction "P0.05_A5_D5_SCL_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "20")
+			(name "/SDA")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "13")
+				(pinfunction "SDA_13")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U4")
+				(pin "5")
+				(pinfunction "P0.04_A4_D4_SDA_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "21")
+			(name "/VBAT")
+			(class "Default")
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP3")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "32")
+				(pinfunction "BAT_32")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "22")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "D102")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D103")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D104")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D105")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D106")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D107")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D108")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D109")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D110")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D111")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D112")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D113")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D114")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D115")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D116")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D117")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D118")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D119")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D120")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D121")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D122")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D123")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D124")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D125")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D126")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D127")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D128")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D129")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D130")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D131")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D132")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D133")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D134")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D135")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D136")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D137")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "D138")
+				(pin "1")
+				(pinfunction "VSS_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW33")
+				(pin "C")
+				(pinfunction "C_C")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW33")
+				(pin "S2")
+				(pinfunction "S2_S2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP4")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U3")
+				(pin "10")
+				(pinfunction "V_{SS}_10")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U3")
+				(pin "15")
+				(pinfunction "A0_15")
+				(pintype "input")
+			)
+			(node
+				(ref "U3")
+				(pin "16")
+				(pinfunction "A1_16")
+				(pintype "input")
+			)
+			(node
+				(ref "U3")
+				(pin "17")
+				(pinfunction "A2_17")
+				(pintype "input")
+			)
+			(node
+				(ref "U4")
+				(pin "13")
+				(pinfunction "GND_13")
+				(pintype "passive")
+			)
+			(node
+				(ref "U4")
+				(pin "33")
+				(pinfunction "GND_33")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "Net-(D66-A)")
+			(class "Default")
+			(node
+				(ref "D66")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW34")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "24")
+			(name "Net-(D67-A)")
+			(class "Default")
+			(node
+				(ref "D67")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW35")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "Net-(D68-A)")
+			(class "Default")
+			(node
+				(ref "D68")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW36")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "26")
+			(name "Net-(D69-A)")
+			(class "Default")
+			(node
+				(ref "D69")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW37")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "Net-(D70-A)")
+			(class "Default")
+			(node
+				(ref "D70")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW38")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "28")
+			(name "Net-(D71-A)")
+			(class "Default")
+			(node
+				(ref "D71")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW39")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "29")
+			(name "Net-(D72-A)")
+			(class "Default")
+			(node
+				(ref "D72")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW40")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "30")
+			(name "Net-(D73-A)")
+			(class "Default")
+			(node
+				(ref "D73")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW41")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "31")
+			(name "Net-(D74-A)")
+			(class "Default")
+			(node
+				(ref "D74")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW42")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "32")
+			(name "Net-(D75-A)")
+			(class "Default")
+			(node
+				(ref "D75")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW43")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "33")
+			(name "Net-(D76-A)")
+			(class "Default")
+			(node
+				(ref "D76")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW44")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "34")
+			(name "Net-(D77-A)")
+			(class "Default")
+			(node
+				(ref "D77")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW45")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "35")
+			(name "Net-(D78-A)")
+			(class "Default")
+			(node
+				(ref "D78")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW46")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "36")
+			(name "Net-(D79-A)")
+			(class "Default")
+			(node
+				(ref "D79")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW47")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "37")
+			(name "Net-(D80-A)")
+			(class "Default")
+			(node
+				(ref "D80")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW48")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "38")
+			(name "Net-(D81-A)")
+			(class "Default")
+			(node
+				(ref "D81")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW49")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "39")
+			(name "Net-(D82-A)")
+			(class "Default")
+			(node
+				(ref "D82")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW50")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "40")
+			(name "Net-(D83-A)")
+			(class "Default")
+			(node
+				(ref "D83")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW51")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "41")
+			(name "Net-(D84-A)")
+			(class "Default")
+			(node
+				(ref "D84")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW52")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "42")
+			(name "Net-(D85-A)")
+			(class "Default")
+			(node
+				(ref "D85")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW53")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "43")
+			(name "Net-(D86-A)")
+			(class "Default")
+			(node
+				(ref "D86")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW54")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "44")
+			(name "Net-(D87-A)")
+			(class "Default")
+			(node
+				(ref "D87")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW55")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "45")
+			(name "Net-(D88-A)")
+			(class "Default")
+			(node
+				(ref "D88")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW56")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "46")
+			(name "Net-(D89-A)")
+			(class "Default")
+			(node
+				(ref "D89")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW57")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "47")
+			(name "Net-(D90-A)")
+			(class "Default")
+			(node
+				(ref "D90")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW58")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "48")
+			(name "Net-(D91-A)")
+			(class "Default")
+			(node
+				(ref "D91")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW59")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "49")
+			(name "Net-(D92-A)")
+			(class "Default")
+			(node
+				(ref "D92")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW60")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "50")
+			(name "Net-(D93-A)")
+			(class "Default")
+			(node
+				(ref "D93")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW61")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "51")
+			(name "Net-(D94-A)")
+			(class "Default")
+			(node
+				(ref "D94")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW62")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "52")
+			(name "Net-(D95-A)")
+			(class "Default")
+			(node
+				(ref "D95")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW63")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "53")
+			(name "Net-(D96-A)")
+			(class "Default")
+			(node
+				(ref "D96")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW64")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "54")
+			(name "Net-(D97-A)")
+			(class "Default")
+			(node
+				(ref "D97")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW65")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "55")
+			(name "Net-(D98-A)")
+			(class "Default")
+			(node
+				(ref "D98")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW66")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "56")
+			(name "Net-(D99-A)")
+			(class "Default")
+			(node
+				(ref "D99")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW67")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "57")
+			(name "Net-(D100-A)")
+			(class "Default")
+			(node
+				(ref "D100")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW68")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "58")
+			(name "Net-(D101-A)")
+			(class "Default")
+			(node
+				(ref "D101")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SW69")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "59")
+			(name "Net-(D102-DOUT)")
+			(class "Default")
+			(node
+				(ref "D102")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D103")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "60")
+			(name "Net-(D103-DOUT)")
+			(class "Default")
+			(node
+				(ref "D103")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D104")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "61")
+			(name "Net-(D104-DOUT)")
+			(class "Default")
+			(node
+				(ref "D104")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D105")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "62")
+			(name "Net-(D105-DOUT)")
+			(class "Default")
+			(node
+				(ref "D105")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D106")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "63")
+			(name "Net-(D106-DOUT)")
+			(class "Default")
+			(node
+				(ref "D106")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D107")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "64")
+			(name "Net-(D107-DOUT)")
+			(class "Default")
+			(node
+				(ref "D107")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D113")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "65")
+			(name "Net-(D108-DIN)")
+			(class "Default")
+			(node
+				(ref "D108")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D109")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "66")
+			(name "Net-(D108-DOUT)")
+			(class "Default")
+			(node
+				(ref "D108")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D114")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "67")
+			(name "Net-(D109-DIN)")
+			(class "Default")
+			(node
+				(ref "D109")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D110")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "68")
+			(name "Net-(D110-DIN)")
+			(class "Default")
+			(node
+				(ref "D110")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D111")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "69")
+			(name "Net-(D111-DIN)")
+			(class "Default")
+			(node
+				(ref "D111")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D112")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "70")
+			(name "Net-(D112-DIN)")
+			(class "Default")
+			(node
+				(ref "D112")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D113")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "71")
+			(name "Net-(D114-DOUT)")
+			(class "Default")
+			(node
+				(ref "D114")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D115")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "72")
+			(name "Net-(D115-DOUT)")
+			(class "Default")
+			(node
+				(ref "D115")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D116")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "73")
+			(name "Net-(D116-DOUT)")
+			(class "Default")
+			(node
+				(ref "D116")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D117")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "74")
+			(name "Net-(D117-DOUT)")
+			(class "Default")
+			(node
+				(ref "D117")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D118")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "75")
+			(name "Net-(D118-DOUT)")
+			(class "Default")
+			(node
+				(ref "D118")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D119")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "76")
+			(name "Net-(D119-DOUT)")
+			(class "Default")
+			(node
+				(ref "D119")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D125")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "77")
+			(name "Net-(D120-DIN)")
+			(class "Default")
+			(node
+				(ref "D120")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D121")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "78")
+			(name "Net-(D120-DOUT)")
+			(class "Default")
+			(node
+				(ref "D120")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D126")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "79")
+			(name "Net-(D121-DIN)")
+			(class "Default")
+			(node
+				(ref "D121")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D122")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "80")
+			(name "Net-(D122-DIN)")
+			(class "Default")
+			(node
+				(ref "D122")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D123")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "81")
+			(name "Net-(D123-DIN)")
+			(class "Default")
+			(node
+				(ref "D123")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D124")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "82")
+			(name "Net-(D124-DIN)")
+			(class "Default")
+			(node
+				(ref "D124")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D125")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "83")
+			(name "Net-(D126-DOUT)")
+			(class "Default")
+			(node
+				(ref "D126")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D127")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "84")
+			(name "Net-(D127-DOUT)")
+			(class "Default")
+			(node
+				(ref "D127")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D128")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "85")
+			(name "Net-(D128-DOUT)")
+			(class "Default")
+			(node
+				(ref "D128")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D129")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "86")
+			(name "Net-(D129-DOUT)")
+			(class "Default")
+			(node
+				(ref "D129")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D130")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "87")
+			(name "Net-(D130-DOUT)")
+			(class "Default")
+			(node
+				(ref "D130")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D131")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "88")
+			(name "Net-(D131-DOUT)")
+			(class "Default")
+			(node
+				(ref "D131")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D137")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "89")
+			(name "Net-(D132-DIN)")
+			(class "Default")
+			(node
+				(ref "D132")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D133")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "90")
+			(name "Net-(D132-DOUT)")
+			(class "Default")
+			(node
+				(ref "D132")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+			(node
+				(ref "D138")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "91")
+			(name "Net-(D133-DIN)")
+			(class "Default")
+			(node
+				(ref "D133")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D134")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "92")
+			(name "Net-(D134-DIN)")
+			(class "Default")
+			(node
+				(ref "D134")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D135")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "93")
+			(name "Net-(D135-DIN)")
+			(class "Default")
+			(node
+				(ref "D135")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D136")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "94")
+			(name "Net-(D136-DIN)")
+			(class "Default")
+			(node
+				(ref "D136")
+				(pin "2")
+				(pinfunction "DIN_2")
+				(pintype "input")
+			)
+			(node
+				(ref "D137")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "95")
+			(name "unconnected-(D138-DOUT-Pad4)")
+			(class "Default")
+			(node
+				(ref "D138")
+				(pin "4")
+				(pinfunction "DOUT_4")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "96")
+			(name "unconnected-(U3-GPB1-Pad2)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "2")
+				(pinfunction "GPB1_2")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "97")
+			(name "unconnected-(U3-GPB2-Pad3)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "3")
+				(pinfunction "GPB2_3")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "98")
+			(name "unconnected-(U3-GPB3-Pad4)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "4")
+				(pinfunction "GPB3_4")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "99")
+			(name "unconnected-(U3-GPB4-Pad5)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "5")
+				(pinfunction "GPB4_5")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "100")
+			(name "unconnected-(U3-GPB5-Pad6)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "6")
+				(pinfunction "GPB5_6")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "101")
+			(name "unconnected-(U3-GPB6-Pad7)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "7")
+				(pinfunction "GPB6_7")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "102")
+			(name "unconnected-(U3-GPB7-Pad8)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "8")
+				(pinfunction "GPB7_8")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "103")
+			(name "unconnected-(U3-INTA-Pad20)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "20")
+				(pinfunction "INTA_20")
+				(pintype "tri_state+no_connect")
+			)
+		)
+		(net
+			(code "104")
+			(name "unconnected-(U3-INTB-Pad19)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "19")
+				(pinfunction "INTB_19")
+				(pintype "tri_state+no_connect")
+			)
+		)
+		(net
+			(code "105")
+			(name "unconnected-(U3-NC-Pad11)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "11")
+				(pinfunction "NC_11")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "106")
+			(name "unconnected-(U3-NC-Pad14)")
+			(class "Default")
+			(node
+				(ref "U3")
+				(pin "14")
+				(pinfunction "NC_14")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "107")
+			(name "unconnected-(U4-GND-Pad27)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "27")
+				(pinfunction "GND_27")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "108")
+			(name "unconnected-(U4-P0.09_NFC1-Pad34)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "34")
+				(pinfunction "P0.09_NFC1_34")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "109")
+			(name "unconnected-(U4-P1.14_D9_MISO-Pad10)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "10")
+				(pinfunction "P1.14_D9_MISO_10")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "110")
+			(name "unconnected-(U4-P1.15_D10_MOSI-Pad11)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "11")
+				(pinfunction "P1.15_D10_MOSI_11")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "111")
+			(name "unconnected-(U4-RESET-Pad26)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "26")
+				(pinfunction "RESET_26")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "112")
+			(name "unconnected-(U4-SWCLK-Pad25)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "25")
+				(pinfunction "SWCLK_25")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "113")
+			(name "unconnected-(U4-SWDIO-Pad24)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "24")
+				(pinfunction "SWDIO_24")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "114")
+			(name "unconnected-(U4-VBUS-Pad14)")
+			(class "Default")
+			(node
+				(ref "U4")
+				(pin "14")
+				(pinfunction "VBUS_14")
+				(pintype "passive+no_connect")
+			)
+		)
+	)
+)
